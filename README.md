@@ -25,7 +25,7 @@
 ## Installation
 
 - Open VS Code and click on Extensions Icon in the Activity Bar.
-- Type **BB Flutter Extension Pack**
+- Type **xsnepaul.bb-flutter-extension-pack**
 - Install the Extension Pack.
 
 ## Extensions
