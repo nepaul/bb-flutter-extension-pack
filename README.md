@@ -29,7 +29,7 @@
 - Type **xsnepaul.bb-flutter-extension-pack**
 - Install the Extension Pack.
 
-*☕️ Have a cup of coffee... There're more than 60 extensions.*
+*☕️ Have a cup of coffee... There're more than 50 extensions.*
 
 ## Extensions
 
@@ -123,7 +123,7 @@ With this extension, you will be able to categorise your annotations into:
 **Themes**:
 
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
--[Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
+- [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ### Git Extensions
