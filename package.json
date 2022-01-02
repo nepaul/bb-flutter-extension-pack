@@ -2,7 +2,7 @@
     "name": "bb-flutter-extension-pack",
     "displayName": "BB Flutter Extension Pack",
     "description": "The BB's pack which includes every extension you will ever need for Flutter development",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -38,7 +38,6 @@
         "jock.svg",
         "kortina.vscode-markdown-notes",
         "localizely.flutter-intl",
-        "luanpotter.dart-import",
         "marcelovelasquez.flutter-tree",
         "mkxml.vscode-filesize",
         "mxismean.change-case-rs",
