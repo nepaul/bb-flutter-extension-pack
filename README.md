@@ -35,7 +35,6 @@
 
 ### Flutter Extensions
 
-- [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart language support and debugger for Visual Studio Code.
 - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - Flutter support and debugger for Visual Studio Code.
 - [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) - A user friendly plugin to help you work with ARGB Color in VS Code, for any project.
