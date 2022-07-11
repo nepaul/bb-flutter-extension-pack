@@ -2,7 +2,7 @@
     "name": "bb-flutter-extension-pack",
     "displayName": "BB Flutter Extension Pack",
     "description": "The BB's pack which includes every extension you will ever need for Flutter development",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -17,7 +17,6 @@
         "alefragnani.Bookmarks",
         "alefragnani.project-manager",
         "alexisvt.flutter-snippets",
-        "BendixMa.dart-data-class-generator",
         "bierner.docs-view",
         "codezombiech.gitignore",
         "Dart-Code.dart-code",
