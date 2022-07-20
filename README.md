@@ -38,7 +38,6 @@
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart language support and debugger for Visual Studio Code.
 - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - Flutter support and debugger for Visual Studio Code.
 - [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) - A user friendly plugin to help you work with ARGB Color in VS Code, for any project.
-- [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter-snippets) - Supercharge your Flutter workflow with handy Snippets for VS Code
 - [Pubspec Dependency Search](https://marketplace.visualstudio.com/items?itemName=everettjf.pubspec-dependency-search) - Easy search dependency name in dart packages site for flutter developers.
 - [Flutter Helpers](https://marketplace.visualstudio.com/items?itemName=aksharpatel47.vscode-flutter-helper) - Easily write JSONSerializable annotated classes and allows you to run code generation for those classes. You can also watch the files so that code generation is faster.
 - [Flutter Intl](https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl) - Create a binding between your translations from .arb files and your Flutter app. It generates boilerplate code for official Dart Intl library and adds auto-complete for keys in Dart code.
