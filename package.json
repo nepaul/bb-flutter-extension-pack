@@ -2,7 +2,7 @@
     "name": "bb-flutter-extension-pack",
     "displayName": "BB Flutter Extension Pack",
     "description": "The BB's pack which includes every extension you will ever need for Flutter development",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -62,7 +62,8 @@
         "waderyan.gitblame",
         "wmaurer.change-case",
         "yzhang.markdown-all-in-one",
-        "zxh404.vscode-proto3"
+        "zxh404.vscode-proto3",
+        "xsnepaul.flutter-dart-snippets"
     ],
     "repository": {
         "type": "git",
